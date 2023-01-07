@@ -12,3 +12,5 @@ Download the latest release of the ESP32 BLE Mouse library from https://github.c
 In the Arduino IDE go to "Sketch" -> "Include Library" -> "Add .ZIP Library..." and select the file you just downloaded.
 
 Then open and upload the file "air_mouse.ino" to get started...
+
+<iframe src="//player.bilibili.com/player.html?aid=691757821&bvid=BV1z24y1S7Eg&cid=938053169&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
