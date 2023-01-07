@@ -13,4 +13,4 @@ In the Arduino IDE go to "Sketch" -> "Include Library" -> "Add .ZIP Library..." 
 
 Then open and upload the file "air_mouse.ino" to get started...
 
-<iframe src="//player.bilibili.com/player.html?aid=691757821&bvid=BV1z24y1S7Eg&cid=938053169&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+【蓝牙空鼠】 https://www.bilibili.com/video/BV1z24y1S7Eg/?share_source=copy_web&vd_source=9c5db5a943feee800a75f29c11f5b13b
